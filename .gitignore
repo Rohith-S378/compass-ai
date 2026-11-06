@@ -1,0 +1,8 @@
+.env
+venv1/
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/
+.venv/
+compass_ai.egg-info/
